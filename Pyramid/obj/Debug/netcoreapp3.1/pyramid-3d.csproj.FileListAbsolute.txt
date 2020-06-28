@@ -1,0 +1,13 @@
+D:\Google Drive\Projects\pyramid-3d\Piramid\bin\Debug\netcoreapp3.1\pyramid-3d.exe
+D:\Google Drive\Projects\pyramid-3d\Piramid\bin\Debug\netcoreapp3.1\pyramid-3d.deps.json
+D:\Google Drive\Projects\pyramid-3d\Piramid\bin\Debug\netcoreapp3.1\pyramid-3d.runtimeconfig.json
+D:\Google Drive\Projects\pyramid-3d\Piramid\bin\Debug\netcoreapp3.1\pyramid-3d.runtimeconfig.dev.json
+D:\Google Drive\Projects\pyramid-3d\Piramid\bin\Debug\netcoreapp3.1\pyramid-3d.dll
+D:\Google Drive\Projects\pyramid-3d\Piramid\bin\Debug\netcoreapp3.1\pyramid-3d.pdb
+D:\Google Drive\Projects\pyramid-3d\Piramid\obj\Debug\netcoreapp3.1\pyramid-3d.csprojAssemblyReference.cache
+D:\Google Drive\Projects\pyramid-3d\Piramid\obj\Debug\netcoreapp3.1\pyramid-3d.AssemblyInfoInputs.cache
+D:\Google Drive\Projects\pyramid-3d\Piramid\obj\Debug\netcoreapp3.1\pyramid-3d.AssemblyInfo.cs
+D:\Google Drive\Projects\pyramid-3d\Piramid\obj\Debug\netcoreapp3.1\pyramid-3d.csproj.CoreCompileInputs.cache
+D:\Google Drive\Projects\pyramid-3d\Piramid\obj\Debug\netcoreapp3.1\pyramid-3d.dll
+D:\Google Drive\Projects\pyramid-3d\Piramid\obj\Debug\netcoreapp3.1\pyramid-3d.pdb
+D:\Google Drive\Projects\pyramid-3d\Piramid\obj\Debug\netcoreapp3.1\pyramid-3d.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+E:\Drives\Projects\piramid\Piramid\Piramid\bin\Debug\netcoreapp3.1\Piramid.exe
+E:\Drives\Projects\piramid\Piramid\Piramid\bin\Debug\netcoreapp3.1\Piramid.deps.json
+E:\Drives\Projects\piramid\Piramid\Piramid\bin\Debug\netcoreapp3.1\Piramid.runtimeconfig.json
+E:\Drives\Projects\piramid\Piramid\Piramid\bin\Debug\netcoreapp3.1\Piramid.runtimeconfig.dev.json
+E:\Drives\Projects\piramid\Piramid\Piramid\bin\Debug\netcoreapp3.1\Piramid.dll
+E:\Drives\Projects\piramid\Piramid\Piramid\bin\Debug\netcoreapp3.1\Piramid.pdb
+E:\Drives\Projects\piramid\Piramid\Piramid\obj\Debug\netcoreapp3.1\Piramid.csprojAssemblyReference.cache
+E:\Drives\Projects\piramid\Piramid\Piramid\obj\Debug\netcoreapp3.1\Piramid.csproj.CoreCompileInputs.cache
+E:\Drives\Projects\piramid\Piramid\Piramid\obj\Debug\netcoreapp3.1\Piramid.AssemblyInfoInputs.cache
+E:\Drives\Projects\piramid\Piramid\Piramid\obj\Debug\netcoreapp3.1\Piramid.AssemblyInfo.cs
+E:\Drives\Projects\piramid\Piramid\Piramid\obj\Debug\netcoreapp3.1\Piramid.dll
+E:\Drives\Projects\piramid\Piramid\Piramid\obj\Debug\netcoreapp3.1\Piramid.pdb
+E:\Drives\Projects\piramid\Piramid\Piramid\obj\Debug\netcoreapp3.1\Piramid.genruntimeconfig.cache

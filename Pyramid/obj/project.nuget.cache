@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pHwBCi7G9DUdLSl2kQMo2hXLGDvbZqZ/C5s1jxskuirKoalO5Y/pKDx4ylykJg3jdI1av2s0of776uliVXOZAw==",
+  "success": true,
+  "projectFilePath": "D:\\Google Drive\\Projects\\pyramid-3d\\Piramid\\pyramid-3d.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pepeyen\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "pyramid-3d/1.0.0": {
+        "runtime": {
+          "pyramid-3d.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "pyramid-3d/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
